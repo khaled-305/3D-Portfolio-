@@ -121,33 +121,35 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Senior Full-Stack Engineer",
-    company_name: "Verified Creators",
-    icon: verified,
-    iconBg: "#383E56",
-    date: "2021 - PRESENT",
-    points: [
-      "Select and apply the correct technologies, strategies, and algorithms to effectively solve problems.",
-      "Developing and maintaining web applications using React.js, Node.js, Next.js, React Native,  and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-      "Mentoring junior developers.",
-    ],
-  },
-  {
     title: "Senior Software Developer",
     company_name: "Tenece Professional Services",
     icon: tenece,
     iconBg: "#E6DEDD",
-    date: "2018 - 2021",
+    date: "2020 - PRESENT",
     points: [
-      "Collaborate with team members to build product features and solutions according to client specifications.",
+      "Select and apply the correct technologies, strategies, and algorithms to effectively solve problems.",
+      "Definition and implementation of the MVC layer and UI.",
+      "Mentor, guide and support other team members.",
+      "Worked closely with UX and design team to implement modern user experience.",
+      "Maintain and implement new features to existing codebase.",
+      "Participate in code review sessions.",
+      "Suggested improvements in existing code base to make a better software experience for users.",
+    ],
+  },
+  {
+    title: "Senior Full-Stack Software Engineer",
+    company_name: "Verified Creators",
+    icon: verified,
+    iconBg: "#383E56",
+    date: "2018 - 2020",
+    points: [
       "Analyse underperforming components in system to improve their performance.",
       "Implement new features to existing codebase.",
       "Prompt technical support.",
-      "Developed all-around responsive interfaces, not neglecting older browsers and smaller screen-sizes.",
       "Contributed to the estimation and scoping of projects.",
+      "Mentor junior developers.",
+      "Developed all-around responsive interfaces, not neglecting older browsers and smaller screen-sizes.",
+      "Participate in code review sessions to ensure code quality and best practices.",
     ],
   },
   {
@@ -155,7 +157,7 @@ const experiences = [
     company_name: "VirtuallyPros",
     icon: virtuallypros,
     iconBg: "#383E56",
-    date: "2016 - 2018",
+    date: "2017 - 2018",
     points: [
       "Maintained, and Implemented new features to active projects.",
       "Collaborate with team members and stakeholders such as Project Managers, QA, Product designers, to deliver features that solve customers problems effectively and efficiently.",
@@ -169,7 +171,7 @@ const experiences = [
     company_name: "",
     icon: code,
     iconBg: "#E6DEDD",
-    date: "2014 - 2016",
+    date: "2016 - 2017",
     points: [
       "As a freelance software engineer, I have extensive experience working with multiple programming languages and frameworks such as JavaScript, Python, React.js, Node.js, Express.js, React Native, Django, Flask, wordpress, AWS, Google Cloud, etc. I have worked with various clients to design and develop custom software solutions that meet their unique business needs.",
       "My responsibilities as a freelance software engineer include analyzing client requirements, developing software designs, writing code, and testing software functionality. I have worked on projects ranging from small-scale web applications to complex enterprise-level software systems.",
